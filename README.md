@@ -45,4 +45,4 @@ IPhone Xs                                                     |IPhone 8       | 
 
 
 ### Notes
-Getting the app to work on different IPhones and different positions with autolayout was the most chanllenging part.
+Getting the app to work on different IPhones and different positions with autolayout was the most challenging part.
