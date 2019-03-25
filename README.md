@@ -37,7 +37,7 @@ The most challenging part was trying to implement the bonus feature where the us
 
 ### App Walkthough GIF
 
-IPhone Xs                                                     |IPhone 8       |   IPhone SE Landscape           
+Property                                                    |Type      |   Description          
 :------------------------------------------------------------:|:---------------------------------------------------------:|-----------------------------------------------------------:
 <img src="http://g.recordit.co/Uri2QVPqSP.gif" width=250><br> | <img src="http://g.recordit.co/0ossyFnt1i.gif" width=250><br> | <img src="http://g.recordit.co/8fuQQrtg8n.gif" width=250><br> 
 
